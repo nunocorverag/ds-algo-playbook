@@ -1,0 +1,3 @@
+# Interval
+
+TODO: Add explanation.
