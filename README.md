@@ -1,26 +1,11 @@
-# 📘 Data Structures & Algorithms Playbook
-
-This repository is my personal study guide for mastering **data structures and algorithms**, focusing on two main goals:
-
-1. 🎯 **Interview Preparation** – mastering problem-solving patterns and core topics commonly asked in technical interviews (e.g. FAANG).
-2. 🧠 **Competitive Programming** – deep understanding of advanced algorithms and techniques used in platforms like Codeforces.
-
-It contains concise notes, code implementations, and curated lists of problems for each topic.
-
----
-
 ## 🧱 Structure
 
-Each topic has:
+The repository is organized by topic:
 
-- A Markdown file with explanations
-- A `/problems` folder for related problems and solutions
-
-```plaintext
-01-Foundations/
-   └── arrays/
-       ├── arrays.md
-       └── problems/
-```
-
----
+- `01-Foundations/` – Core programming concepts (arrays, strings, recursion, etc.)
+- `02-DataStructures/` – Key data structures (heap, graph, tree, trie, etc.)
+- `03-Algorithms/` – Classical algorithms (BFS, DFS, Dijkstra, geometry, etc.)
+- `04-Patterns/` – Common coding patterns (sliding window, merge intervals, etc.)
+- `05-DynamicProgramming/` – All about DP techniques and templates
+- `leetcode/` – Individual LeetCode problems with solutions
+- `Notes/` – Logs and extra notes (e.g. mistakes-log)
