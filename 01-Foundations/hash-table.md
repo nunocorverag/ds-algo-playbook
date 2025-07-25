@@ -1,4 +1,4 @@
-# 🧠 Hash Table Cheatsheet for Coding Interviews
+# 🧠 Hash Table
 
 A **hash table** (or **hash map**) is a data structure that maps **keys to values** using a **hash function** to compute an index.  
 It enables fast access, insertion, and deletion — usually in **O(1)** average time.

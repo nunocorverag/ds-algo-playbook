@@ -1,4 +1,4 @@
-# 🧵 Strings Cheatsheet for Interviews
+# 🧵 Strings
 
 A **string** is a sequence of characters. Many array techniques apply here as well, but some unique patterns and structures are key to mastering string problems.
 

@@ -1,4 +1,4 @@
-# 🔁 Recursion Cheatsheet for Coding Interviews
+# 🔁 Recursion
 
 Recursion is a method of solving problems where the solution depends on solving smaller subproblems of the same type.
 
